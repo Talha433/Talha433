@@ -1,13 +1,30 @@
-Welcome to My GitHub!
-👋 Hello there! I’m Muhammad Talha Siddiqui, a passionate cybersecurity enthusiast and developer on a mission to create innovative solutions that enhance security and privacy in our digital world. With a background in Computer Science and a diverse set of skills in information security, I'm dedicated to learning and sharing knowledge about cutting-edge technologies.
+# Muhammad Talha Siddiqui
 
-🚀 What You’ll Find Here
-This repository is a treasure trove of my projects, experiments, and explorations in the realm of cybersecurity. From building robust password management tools to customizing Linux distributions for enhanced security, each project reflects my commitment to best practices and recognized standards in the field.
+Welcome to my GitHub! I am **Muhammad Talha Siddiqui**, an Information Security Engineer, developer, and passionate technologist from Karachi, Pakistan. My work bridges the domains of cybersecurity, software development, and systems automation, reflecting a strong commitment to leveraging technology for innovative solutions.
 
-🔍 Highlights of my work include:
+## About Me
 
-Advanced Password Strength Checker and Generator
-Comprehensive Password Manager with secure user authentication
-Custom Linux distributions tailored for information security
-🌟 Let's Connect!
-I believe in the power of collaboration and community learning. Whether you're a fellow developer, a cybersecurity professional, or just curious about my projects, I’d love to connect! Feel free to reach out with ideas, feedback, or questions. Together, let’s make the internet a safer place!
+- **Professional Expertise**: Information Security Engineer with hands-on experience in securing enterprise infrastructures, performing penetration testing, and automating security processes.
+- **Technical Skills**: Python development, system automation, machine learning, DevOps, and open-source contributions.
+- **Interests**: Deep learning, Linux systems, and cybersecurity solutions. Passionate about open-source software and enabling seamless workflows.
+
+---
+
+## Key Projects
+
+### 1. **[Image Classification with CNNs](https://github.com/talha433/Image-Classification-with-Convolutional-Neural-Networks-CNN-)**
+   - **Description**: Developed a robust image classification model using Convolutional Neural Networks (CNNs) trained on the CIFAR-10 dataset.
+   - **Technologies**: TensorFlow, Keras, Python, Jupyter Notebook.
+   - **Outcome**: Achieved accurate image categorization, offering a foundation for advanced image recognition systems.
+
+### 2. **[Customized Shibboleth IdP v5 Installer](https://github.com/talha433/customized-shibboleth-idp5-installer)**
+   - **Description**: Automated the installation of Shibboleth Identity Provider (IdP) v5, including configurations for security and integration with eduGAIN.
+   - **Technologies**: Bash, Ansible, Python.
+   - **Features**: Streamlined installation and setup on Linux systems, optimizing identity management workflows.
+
+---
+
+## Get in Touch
+
+- **LinkedIn**: [Muhammad Talha Siddiqui](https://www.linkedin.com/in/talha-siddiqui/)
+- **Email**: talhasiddiqui433@gmail.com
