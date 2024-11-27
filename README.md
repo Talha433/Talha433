@@ -8,8 +8,6 @@ Welcome to my GitHub! I am **Muhammad Talha Siddiqui**, an Information Security 
 - **Technical Skills**: Python development, system automation, machine learning, DevOps, and open-source contributions.
 - **Interests**: Deep learning, Linux systems, and cybersecurity solutions. Passionate about open-source software and enabling seamless workflows.
 
----
-
 ## Key Projects
 
 ### 1. **[Image Classification with CNNs](https://github.com/talha433/Image-Classification-with-Convolutional-Neural-Networks-CNN-)**
@@ -21,8 +19,6 @@ Welcome to my GitHub! I am **Muhammad Talha Siddiqui**, an Information Security 
    - **Description**: Automated the installation of Shibboleth Identity Provider (IdP) v5, including configurations for security and integration with eduGAIN.
    - **Technologies**: Bash, Ansible, Python.
    - **Features**: Streamlined installation and setup on Linux systems, optimizing identity management workflows.
-
----
 
 ## Get in Touch
 
